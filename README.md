@@ -34,5 +34,3 @@ Guess letters to reveal the hidden word. Each incorrect guess reduces your chanc
 
 Feel free to clone, run, and modify these projects to suit your learning goals. Contributions and suggestions are welcome!
 
-
-Would you like me to help you write the installation or usage instructions too? Or maybe add a GIF or screenshot section for visual appeal?
